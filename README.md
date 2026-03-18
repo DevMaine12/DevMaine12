@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Developer, Coder, and Python learning beginner. I currently work with applications like Replit, ChatGPT, and Github Copilot. I focus on using codes in the app development, cybersecurity, and automation/AI ML spaces with stuff such as PowerShell, Bash Script, Javascript, Python, HTML, CSS, and Swift as well as using neumerous Python Libraries for my coding innovations.  
+I'm a Developer, Coder, and Python learning beginner. I currently work with applications like Replit, ChatGPT, and Github Copilot. I focus on using codes in the app development, cybersecurity, and automation/AI ML spaces with stuff such as PowerShell, Bash Script, Javascript, Python, HTML, CSS, and Swift as well as using neumerous Python Libraries for my coding innovations. Please note that I am a beginner with python and all of this and that I am displaying in my tech stack the stuff I am trying to learn or I am working with and this doesnt mean that I can make a code with these langauges or libraries without trying and that I still attempt to do stuff such as AI and also automation to assist me, now all ideas for code and majority of code written is made by me with the assistance of python documentation. 
 
 
 # 💻 Tech Stack:
