@@ -1,5 +1,5 @@
 # 💫 About Me:
-am an emerging Software Engineer with a focus on Python and modern development practices. My work involves building applications and automation scripts, with a growing interest in cybersecurity. My technical stack includes Python, JavaScript, and various shell scripting environments. I am currently focused on developing robust programming fundamentals through project-based work and the integration of AI-assisted development tools.
+am an emerging Software Engineer with a focus on Python and modern development practices. My work involves building applications and automation scripts, with a growing interest in cybersecurity. My technical stack includes Python, JavaScript, and various shell scripting environments. I am currently focused on developing robust programming fundamentals through project-based work and the integration of AI-assisted development tools. Please keep in mind that I am still a learning developer and that I am not a professional and that the languages listed in my profile I work with in special ways as well as learning them. 
 
 
 ## 🌐 Socials:
