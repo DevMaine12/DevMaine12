@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am an evolving developer specializing in embedded systems, Python development, and Python-based AI engineering. My work focuses on building hardware-software integrations, automating workflows, and leveraging machine learning models through project-based experimentation. To validate my growing technical expertise, I am currently preparing for an upcoming professional certification.<br><br>I use programming to bridge the gap between physical hardware and intelligent software. I am particularly interested in AI-assisted development workflows, exploring how modern AI tools can optimize code efficiency, accelerate my learning curve, and improve system design.<br><br>I am not a professional developer yet. The technologies listed on my profile represent tools, languages, and frameworks I am actively mastering and testing as I build my engineering foundation.
+I am a evolving developer, who is learnung to specialize in Linux development for cyber and systems work as well as working on bedded shetems and AI based cyber work as well as applications that build and facilitate the work regarding cyber. 
+Now some of my github repos and codes arent alligned with my speciality, that is because i needed to get something setup on my repo for reasons undefined at the moment  
 
 
 # 💻 Tech Stack:
